@@ -1,0 +1,8 @@
+Algorithm
+1.Check if you have enough airtime by dialling *144#
+2.Recharge airtime if it is not enough.
+3.Dial *544# or *444# and press the call button.
+4.Select the option "buy bundles"
+5.Choose the bundle option number and select "send"
+6.Select whether to pay via airtime or Mpesa and click to send.
+7.A confirmation message will pop-up select "accept" and send.
